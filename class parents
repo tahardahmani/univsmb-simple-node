@@ -1,0 +1,19 @@
+class Parents{
+    constructor(a,b) {
+        this.a=a
+        if(mull != this.b)
+            this.b = b
+        }
+
+    }
+
+class fille extends Parents {
+    constructor(c) {
+        super(c,null)
+    }
+    toto() {
+
+    }
+
+}
+
